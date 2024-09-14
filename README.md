@@ -8,16 +8,18 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 
 - [OverTheWire](https://overthewire.org)
 - [PicoCTF](https://picoctf.org)
-  
+
 ## Table of Contents
 
 ### OverTheWire Writeups
+
 [Bandit Level 0-1](OverTheWire/Bandit/Level0-1.md)
+[Bandit Level 1-2](OverTheWire/Bandit/Level1-2.md)
 
 ### PicoCTF Writeups
 
 ### Hack The Box Writeups
-  
+
 ## How to Use These Writeups
 
 These writeups are for educational purposes. They demonstrate how certain security vulnerabilities can be exploited in controlled environments and how they can be mitigated. Please do not use any of the techniques or tools mentioned here to exploit real-world systems without proper authorization.
@@ -30,15 +32,19 @@ Each folder contains detailed descriptions of the challenges and step-by-step so
 - **Lessons Learned:** Key takeaways and skills gained.
 
 ## Tools Commonly Used
+
 Some of the tools I frequently use in CTFs include:
+
 - [nmap](https://nmap.org)
 - [Burp Suite](https://portswigger.net/burp)
 - [Wireshark](https://www.wireshark.org)
 
 ## Connect with Me
-Feel free to reach out if you have questions, or connect with me on [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/rishabh-trivedi98/)).
+
+Feel free to reach out if you have questions, or connect with me on [LinkedIn](<[https://www.linkedin.com/in/](https://www.linkedin.com/in/rishabh-trivedi98/)>).
 
 ---
 
 ### Disclaimer
+
 These writeups are for educational purposes only and should not be used maliciously.

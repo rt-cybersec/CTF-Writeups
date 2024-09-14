@@ -12,7 +12,7 @@ The password for the next level is stored in a file called readme located in the
 ### Steps
 
 1. Use the following command to log into the machine;
-   `ssh bandit0@`
+   `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 2. Use the `ls` command to see the name of the file.
 3. Use `cat readme` to print the content of the file containing the password to the next level on the screen.
 
