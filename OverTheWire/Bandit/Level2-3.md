@@ -12,7 +12,7 @@ The password for the next level is stored in a file called spaces in this filena
 
 1. Use the following command to log into the machine;
    `ssh bandit1@bandit.labs.overthewire.org -p 2220`
-2. Use `cat "spaces in this filename"` command to view the content. Here `./` represents current directory hence it refers the file explicitly.
+2. Use `cat "spaces in this filename"` command to view the content.
 
 ### Solution
 
