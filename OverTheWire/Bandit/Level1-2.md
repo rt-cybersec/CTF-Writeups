@@ -16,7 +16,7 @@ The password for the next level is stored in a file called - located in the home
 
 ### Solution
 
-Password for Level1: '263JGJPfgU6LtdEvgfWU1XP5yac29mFx'
+Password for Level2: '263JGJPfgU6LtdEvgfWU1XP5yac29mFx'
 
 ### Lessons Learned
 
