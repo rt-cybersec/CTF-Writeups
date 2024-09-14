@@ -13,8 +13,10 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 
 ### OverTheWire Writeups
 
-[Bandit Level 0-1](OverTheWire/Bandit/Level0-1.md)
-[Bandit Level 1-2](OverTheWire/Bandit/Level1-2.md)
+**Bandit**
+- [Bandit Level 0-1](OverTheWire/Bandit/Level0-1.md)
+- [Bandit Level 1-2](OverTheWire/Bandit/Level1-2.md)
+- [Bandit Level 2-3](OverTheWire/Bandit/Level2-3.md)
 
 ### PicoCTF Writeups
 
