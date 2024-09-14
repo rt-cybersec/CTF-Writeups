@@ -12,6 +12,7 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 ## Table of Contents
 
 ### OverTheWire Writeups
+[Bandit Level 0-1](OverTheWire/Bandit/Level0-1.md)
 
 ### PicoCTF Writeups
 
