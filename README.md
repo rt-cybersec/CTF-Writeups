@@ -14,9 +14,11 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 ### OverTheWire Writeups
 
 **Bandit**
+
 - [Bandit Level 0-1](OverTheWire/Bandit/Level0-1.md)
 - [Bandit Level 1-2](OverTheWire/Bandit/Level1-2.md)
 - [Bandit Level 2-3](OverTheWire/Bandit/Level2-3.md)
+- [Bandit Level 3-4](OverTheWire/Bandit/Level3-4.md)
 
 ### PicoCTF Writeups
 
@@ -43,7 +45,7 @@ Some of the tools I frequently use in CTFs include:
 
 ## Connect with Me
 
-Feel free to reach out if you have questions, or connect with me on [LinkedIn](<[https://www.linkedin.com/in/](https://www.linkedin.com/in/rishabh-trivedi98/)>).
+Feel free to reach out if you have questions, or connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-trivedi98/).
 
 ---
 
