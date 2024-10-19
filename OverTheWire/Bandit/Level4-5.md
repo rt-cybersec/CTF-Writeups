@@ -22,7 +22,7 @@ The password for the next level is stored in the only human-readable file in the
 
 ### Solution
 
-Password for Level1: '4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw'
+Password for Level5: '4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw'
 
 ### Lessons Learned
 

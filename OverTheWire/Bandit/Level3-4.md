@@ -20,7 +20,7 @@ The password for the next level is stored in a hidden file in the inhere directo
 
 ### Solution
 
-Password for Level3: '2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ'
+Password for Level4: '2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ'
 
 ### Lessons Learned
 
