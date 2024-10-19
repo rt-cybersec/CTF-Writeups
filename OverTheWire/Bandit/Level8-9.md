@@ -13,7 +13,7 @@ The password for the next level is stored in the file data.txt and is the only l
 ### Steps
 
 1. Use the following command to log into the machine;
-   `ssh bandit9@bandit.labs.overthewire.org -p 2220`
+   `ssh bandit8@bandit.labs.overthewire.org -p 2220`
 2. Use `sort data.txt | uniq -u` to print the unique line in the file.
 
 ### Solution

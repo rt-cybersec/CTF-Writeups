@@ -12,7 +12,7 @@ The password for the next level is stored in the file data.txt next to the word 
 ### Steps
 
 1. Use the following command to log into the machine;
-   `ssh bandit6@bandit.labs.overthewire.org -p 2220`
+   `ssh bandit7@bandit.labs.overthewire.org -p 2220`
 2. Use `grep "millionth" data.txt` to print the line containing millionth.
 
 ### Solution
