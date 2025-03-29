@@ -27,6 +27,7 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 - [Bandit Level 9-10](OverTheWire/Bandit/Level9-10.md)
 - [Bandit Level 10-11](OverTheWire/Bandit/Level10-11.md)
 - [Bandit Level 11-12](OverTheWire/Bandit/Level11-12.md)
+- [Bandit Level 11-12](OverTheWire/Bandit/Level12-13.md)
 
 ### PicoCTF Writeups
 
