@@ -29,6 +29,10 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 - [Bandit Level 11-12](OverTheWire/Bandit/Level11-12.md)
 - [Bandit Level 11-12](OverTheWire/Bandit/Level12-13.md)
 
+### Vulnhub
+
+- [SickOS 1.1](Vulnhub/SickOS%201.1.md)
+
 ### PicoCTF Writeups
 
 ### Hack The Box Writeups
