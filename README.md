@@ -32,6 +32,7 @@ Each writeup includes the steps I followed to solve the challenges, the tools an
 ### Vulnhub
 
 - [SickOS 1.1](Vulnhub/SickOS%201.1.md)
+- [LazySysAdmin](Vulnhub/LazySysAdmin.md)
 
 ### PicoCTF Writeups
 
